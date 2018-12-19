@@ -1,0 +1,98 @@
+[
+  {
+    "club": "Borussia Dortmund",
+    "country": "Germany",
+    "last_positions": 1,
+    "group": "A"
+  },
+  {
+    "club": "Atletico Madrid",
+    "country": "Spain",
+    "last_positions": 2,
+    "group": "A"
+  },
+  {
+    "club": "Barcelona",
+    "country": "Spain",
+    "last_positions": 1,
+    "group": "B"
+  },
+  {
+    "club": "Tottenham",
+    "country": "England",
+    "last_positions": 2,
+    "group": "B"
+  },
+  {
+    "club": "PSG",
+    "country": "France",
+    "last_positions": 1,
+    "group": "C"
+  },
+  {
+    "club": "Liverpool",
+    "country": "England",
+    "last_positions": 2,
+    "group": "C"
+  },
+  {
+    "club": "Porto",
+    "country": "Portugal",
+    "last_positions": 1,
+    "group": "D"
+  },
+  {
+    "club": "Schalke",
+    "country": "Germany",
+    "last_positions": 2,
+    "group": "D"
+  },
+  {
+    "club": "Bayern Munich",
+    "country": "Germany",
+    "last_positions": 1,
+    "group": "E"
+  },
+  {
+    "club": "Ajax",
+    "country": "Netherlands",
+    "last_positions": 2,
+    "group": "E"
+  },
+  {
+    "club": "Manchester City",
+    "country": "England",
+    "last_positions": 1,
+    "group": "F"
+  },
+  {
+    "club": "Lyon",
+    "country": "France",
+    "last_positions": 2,
+    "group": "F"
+  },
+  {
+    "club": "Real Madrid",
+    "country": "Spain",
+    "last_positions": 1,
+    "group": "G"
+  },
+  {
+    "club": "Roma",
+    "country": "Italy",
+    "last_positions": 2,
+    "group": "G"
+  },
+  {
+    "club": "Juventus",
+    "country": "Italy",
+    "last_positions": 1,
+    "group": "H"
+  },
+  {
+    "club": "Manchester United",
+    "country": "England",
+    "last_positions": 2,
+    "group": "H"
+  }
+]

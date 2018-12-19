@@ -1,0 +1,15 @@
+{
+  "name": "champions-league",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "cli-table": "^0.3.1"
+  }
+}
